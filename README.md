@@ -80,7 +80,7 @@ QCR 只是一项编程的公益实验项目，主动保护范围仅适用于电�
 
 
 
-   (Microsoft Translator(ROBOT) と Maicチーム 一緒に翻訳します)
+   (Microsoft Translator(ROBOT) と Maicチーム に一緒に翻訳します)
 
 #「QCR」はなにですか
 
